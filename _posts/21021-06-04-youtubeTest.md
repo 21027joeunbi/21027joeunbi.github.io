@@ -1,5 +1,5 @@
 ---
-layour: single
+layou: single
 tittle: "EPEX 금동현 트레일러"
 --
 
