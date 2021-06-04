@@ -1,6 +1,6 @@
 ---
 layour: single
-tittle: "EPEX 금동현 티저"
+tittle: "EPEX 금동현 트레일러"
 --
 
 {% include video id="ikUVBMSTYtI" provider="youtube" %}
